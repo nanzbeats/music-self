@@ -49,22 +49,3 @@ Run the robot `node index.js` then using
 }
 ```
 ***
-## 🤝 Contributing
-
-1. [Fork the repository](https://github.com/hesawmgh1098/Discord-Music-Selfbot/fork)
-2. Clone your fork: `git clone https://github.com/your-username/Discord-Music-Selfbot.git`
-3. Create your feature branch: `git checkout -b my-new-feature`
-4. Commit your changes: `git commit -am 'Add some feature'`
-5. Push to the branch: `git push origin my-new-feature`
-6. Submit a pull request
-
-***
-<h1 align="center">🤝Contact Me!</h1>
-<p align="center">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.com/users/556854910805737478" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/hesawmgh1098" target="_blank">
-<a href="https://github.com/hesawmgh1098"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
-</p>
-
-<img src="https://discord.c99.nl/widget/theme-2/556854910805737478.png" >
