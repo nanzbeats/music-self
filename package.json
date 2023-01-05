@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "discord.js-selfbot-v13": "^2.0.4",
+    "erela.js": "^2.3.3",
+    "erela.js-spotify": "^1.2.0",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.19"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "name": "m-selfbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hesawmgh1098/Music-selfbot.git"
+  },
+  "author": "Hesam Tvs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hesawmgh1098/Music-selfbot/issues"
+  },
+  "homepage": "https://github.com/hesawmgh1098/Music-selfbot#readme",
+  "description": ""
+}
